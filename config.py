@@ -1,0 +1,4 @@
+
+TOKEN = "7244416426:AAHc2mDXXwseGDWHvGxZE7iISjfMmQlA78U"
+CHANNEL_ID = -1002261902856  # Channel ID where bot will send messages
+ADMIN_ID = 1945108586
